@@ -1,0 +1,910 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <meta name="author" content="Marwa El-Manawy <marwa@elmanawy.info>" />
+        <meta name="description" content="Nepali Tech Youtuber, Software and Web Developer, Video Creator, Bishworaj Poudel || Software Developer In Nepal">
+        <meta name="Keywords" content="">
+        <link rel="shortcut icon" href="http://brp.com.np//cdn/settings/bishworaj-poudel.jpg" type="image/x-icon" />
+        <title>Bishworaj Poudel</title>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/bootstrap.min.css" type="text/css">
+        <!-- Animation -->
+        <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/animate.min.css" type="text/css">
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/owl.carousel.min.css" type="text/css">
+        <!-- Light Case -->
+        <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/lightcase.min.css" type="text/css">
+        <!-- Template style -->
+                    <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/style.css" type="text/css">
+                        <link rel="stylesheet" href="http://brp.com.np/styles/site/default/assets/css/colors/blue.css" type="text/css">                                                                <script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+    <body>
+        <!-- preloader -->
+        <div id="preloader">
+            <div id="preloader-circle">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <!-- /preloader -->
+        <div class="wrapper-page">
+            <!-- Header -->
+            <header class="header">
+                <div class="header-content">
+                    <div class="profile-picture-block">
+                        <div class="my-photo">
+                            <img src="http://brp.com.np//cdn/about/bishworaj-poudel.jpg" class="img-fluid" alt="<b>Bishworaj Poudel </b>">
+                        </div>
+                    </div>
+                    <!-- Header Head -->
+                    <div class="site-title-block">
+                        <div class="site-title"><b>Bishworaj Poudel </b></div>
+                        <div class="type-wrap">
+                            <div class="cd-headline clip">
+                                <span class="cd-words-wrapper">
+                                                                            <b>Software Developer
+</b>
+                                                                            <b>Web Developer
+</b>
+                                                                            <b>App Developer
+</b>
+                                                                            <b>Public Speaker</b>
+                                                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /Header Head -->
+
+                    <!-- Navigation -->
+                    <div class="site-nav">
+                        <!-- Main menu -->
+                        <ul class="header-main-menu" id="header-main-menu">
+                            <li><a class="active" href="#home"><i class="fas fa-home"></i> Home</a></li>
+                            <li><a href="#about-me"><i class="fas fa-user-tie"></i> About BRP</a></li>
+                             <li><a href="#portfolio"><i class="fas fa-business-time"></i> Some Works</a></li>                                 <li><a href="#blog"><i class="fas fa-book-reader"></i> Blog</a></li>                                                            <li><a href="#download"><i class="fas fa-award"></i> Downloads</a></li>                            
+                            <li><a href="#contact"><i class="fas fa-paper-plane"></i> Contact</a></li>
+                        </ul> 
+                        <!-- /Main menu -->
+                    </div>
+                    <!-- /Navigation -->
+                </div>
+            </header>
+            <!-- /Header -->
+
+            <!-- Mobile Header -->
+            <div class="responsive-header">
+                <div class="responsive-header-name">
+                    <img class="responsive-logo" src="http://brp.com.np//cdn/about/bishworaj-poudel.jpg" alt="<b>Bishworaj Poudel </b>" />
+                    <b>Bishworaj Poudel </b>                </div> 
+                <span class="responsive-icon"><i class="lnr lnr-menu"></i></span>
+            </div>
+            <!-- /Mobile Header -->
+            <!-- Main Content Pages -->
+<div class="content-pages">
+    <!-- Subpages -->
+    <div class="sub-home-pages">
+        <!-- Start Page home -->
+        <section id="home" class="sub-page start-page">
+            <div class="sub-page-inner" style="background: url('http://brp.com.np//cdn/settings/bishworaj-poudel-fluttter.jpg');">
+                <div class="mask"></div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <div class="title-block">
+                            <h2>Namaste From <b>Bishworaj Poudel </b></h2>
+                            <div class="type-wrap">
+                                <div class="cd-headline clip">
+                                    <span class="blc"></span>
+                                    <span class="cd-words-wrapper">
+                                                                                    <b>Software Developer
+</b>
+                                                                                    <b>Web Developer
+</b>
+                                                                                    <b>App Developer
+</b>
+                                                                                    <b>Public Speaker</b>
+                                                                            </span>
+                                </div>
+                            </div>
+                            <br>
+                            <a href="http://bit.ly/2MGOdpl" target="_blank" class="btn btn-success btn-lg"><i class="lnr lnr-camera-video"></i> Join Online Class</a>
+                                
+                            <div class="home-buttons">
+                            <a href="#contact" class="bt-submit"><i class="lnr lnr-envelope"></i> Message Bishworaj Poudel</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /Start Page home -->
+
+        <!-- About Me Subpage -->
+        <section id="about-me" class="sub-page">
+            <div class="sub-page-inner">
+                <div class="section-title">
+                    <div class="main-title">
+                        <div class="title-main-page">
+                            <h4>About</h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="section-content">
+                    <!-- about me -->
+                    <div class="row pb-30">
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <h3><b>Bishworaj Poudel </b></h3>
+                            <span class="about-location"><i class="lnr lnr-map-marker"></i>Nepal - Founder/CEO Thulo Technology</span>
+                                                            <p class="about-content"><b>Bishworaj Poudel</b> is the name of a tech personality of his generation. He loves helping people to understand new concepts and giving them tools to help them excel in their passion. He develops websites, software & apps according to people's needs. Being a mainstream developer, he has developed various software like  <a href="https://youtu.be/ue3YBJP3QSw" target ="_blank"> Institute Management Software</a>. , Ecommerce App, Income and Expenses Software, etc, and also different websites for various peoples and organizations.
+</p>
+                                                            <p class="about-content"><br>
+</p>
+                                                            <p class="about-content">He has a YouTube Channel named <a href="https://youtube.com/technologychannel" target ="_blank">Technology Channel</a>. In this channel, he teaches people about different tech and programming stuff. He also talks at events, and also get hired to take workshops, seminars, and boot-camps. He gets a lot of questions daily on his email and other social networking sites regarding career, technical education, programming, web, and software application projects.</p>
+                                                        <ul class="bout-list-summry row">
+                                                                <li class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                    <div class="icon-info">
+                                        <i class="lnr lnr-film-play"></i> 
+                                    </div>
+                                    <div class="details-info">
+                                        <h6>5+ Years</h6>
+                                        <p>Experience</p>
+                                    </div>
+                                </li>
+                                                                                                <li class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                    <div class="icon-info">
+                                        <i class="lnr lnr-layers"></i> 
+                                    </div>
+                                    <div class="details-info">
+                                        <h6>10+ Projects</h6>
+                                        <p>Completed</p>
+                                    </div>
+                                </li>
+                                                                                             </ul>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-12 col-md-6 col-lg-6">
+                            <div class="box-img">
+                                <img src="http://brp.com.np//cdn/settings/bishworaj-poudel1.jpg" class="img-fluid" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /about me -->
+
+                    <!-- services -->
+                                            <div class="special-block-bg">
+                            <div class="section-head">
+                                <h4>
+                                    <span>What Actually Bishworaj Do</span>
+                                    Services                                </h4>
+                            </div>
+                            <div class="row">
+                                  
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <div class="services-list">
+                                              
+                                                <div class="service-block">
+                                                    <div class="service-icon">
+                                                        <i><img src="http://brp.com.np//cdn/services/1.png"/></i>
+                                                    </div>
+                                                    <div class="service-text">
+                                                        <h4>Web Development</h4>
+                                                        <p>
+                                                                                                                        Can create a beautiful, secure, fast, responsive and functional website according to your need. 
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                              
+                                                <div class="service-block">
+                                                    <div class="service-icon">
+                                                        <i><img src="http://brp.com.np//cdn/services/28576586_1557952130988578_2781008568808475348_n_thumb-141x150.jpg"/></i>
+                                                    </div>
+                                                    <div class="service-text">
+                                                        <h4>Public Speaking</h4>
+                                                        <p>
+                                                                                                                        Can Speak seminars, boot camp, cybersecurity advice for your college or institution. 
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                  
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <div class="services-list">
+                                              
+                                                <div class="service-block">
+                                                    <div class="service-icon">
+                                                        <i><img src="http://brp.com.np//cdn/services/png-files-software-6.png"/></i>
+                                                    </div>
+                                                    <div class="service-text">
+                                                        <h4>Software Development</h4>
+                                                        <p>
+                                                                                                                        Can create any type of desktop/web-based software according to your needs. 
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                              
+                                                <div class="service-block">
+                                                    <div class="service-icon">
+                                                        <i><img src="http://brp.com.np//cdn/services/facebook_ads_1510589236.png"/></i>
+                                                    </div>
+                                                    <div class="service-text">
+                                                        <h4>App Development</h4>
+                                                        <p>
+                                                                                                                        Can create a fast, expressive, flexible, native Android & iOS app. 
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                        <!-- /services -->
+
+                                        <!-- Fun Facts -->
+                                        <!-- /Fun Facts -->
+
+                    <!-- List Of Testimonials -->
+                                            <div class="special-block-bg">
+                            <div class="section-head">
+                                <h4>
+                                    <span>What</span>
+                                    People Say                                </h4>
+                            </div>
+                            <div class="testimonials owl-carousel">
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        Bishworaj created handicraft software for my business. I am using software for the last 2 years. I travel to various countries and watch every log from the software. He provides updates regularly and instant supports. 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/84363936_10221840742468639_3059459600425156608_n.jpg" alt="Buddhi Purja"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">Buddhi Purja</p>
+                                                <p class="testimonial-position">Business Owner</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        As i what i know till now, Bishworaj is a helping hand and I'm hopeful this page of him will help lots of people and contribute positive outcomes. 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/84946936_524563678183190_7212256027159298048_n.jpg" alt="Ramesh Khadka"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">Ramesh Khadka</p>
+                                                <p class="testimonial-position">Director of Rapid language and IT Center.</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star half-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        Thank you for developing my personal website and company web platform. 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/45655336_2135626450099065_6117380455802077184_o.jpg" alt="Khangendra Lamichhane"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">Khangendra Lamichhane</p>
+                                                <p class="testimonial-position">Actor</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        One of the best place where we can learn many things in simple language. I am grateful for that I can always get some new ideas and many more things to improve myself. Thanks for sharing your knowledge. East or west Bishowraj bro is the best. 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/70729872_2980569695501017_89976146057232384_o.jpg" alt="Ankit Khanal"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">Ankit Khanal</p>
+                                                <p class="testimonial-position">Student</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star half-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        Bishworaj Poudel is like a big brother who always supports the young generation and I personally have learned a lot in programming from him. He is one of the best people I know in my life. 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/84715605_179065506744678_2440149076101038080_n1.jpg" alt="The Sewak"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">The Sewak</p>
+                                                <p class="testimonial-position">Student</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star half-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                  
+                                    <!-- Testimonial item 1 -->
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-review">
+                                                <p>
+                                                                                                        Technology channel is the best youtube channel for information and technology.from this channel we are able to learn about new technology. I am watching this channel since 2018. In this channel, everything is explained in the Nepali language which is very easy for everyone. Hope this channel provides us new&#8230; 
+                                                </p>
+                                            </div>
+                                        </div>            
+                                        <div class="testimonial-footer">
+                                            <div class="testimonial-avatar">
+                                                <img src="http://brp.com.np//cdn/testimonials/81624699_644951299378023_5691165218655174656_n1.jpg" alt="Pradip Chy"/>
+                                            </div>              
+                                            <div class="testimonial-owner-content">
+                                                <p class="testimonial-owner">Pradip Chy</p>
+                                                <p class="testimonial-position">Student</p>
+                                                <ul class="testimonial-rating rating">
+                                                    <li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li><li><i class="fa fa-star"></i></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /Testimonial item 1 -->
+                                                            </div>
+
+                        </div>
+                                        <!-- /List Of Testimonials -->
+
+                    <!-- Clients -->
+                                            <div class="row pt-50">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="section-head">
+                                    <h4>
+                                        <span>Bishworaj Poudel's</span>
+                                        Clients                                    </h4>
+                                </div>
+                                <!-- List Of Clients -->
+                                <div class="clients owl-carousel">
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Salute Gorkha Training Center Pvt.Ltd.">
+                                                <img src="http://brp.com.np//cdn/clients/salutegorkha.png" alt="Salute Gorkha Training Center Pvt.Ltd.">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="BMB Institute Pvt.Ltd.">
+                                                <img src="http://brp.com.np//cdn/clients/bmb.png" alt="BMB Institute Pvt.Ltd.">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="ACC Institute Butwal">
+                                                <img src="http://brp.com.np//cdn/clients/acc_institute_logo.png" alt="ACC Institute Butwal">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Goodwill Driving Pokhara">
+                                                <img src="http://brp.com.np//cdn/clients/goodwilldriving.png" alt="Goodwill Driving Pokhara">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Sunirse Driving Pokhara">
+                                                <img src="http://brp.com.np//cdn/clients/sunrisedriving.png" alt="Sunirse Driving Pokhara">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Nova International institute Pvt.Ltd.">
+                                                <img src="http://brp.com.np//cdn/clients/novainstitute.png" alt="Nova International institute Pvt.Ltd.">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Jyoti Education and Consultancy">
+                                                <img src="http://brp.com.np//cdn/clients/jyotiedu.png" alt="Jyoti Education and Consultancy">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Big Institute Damauli">
+                                                <img src="http://brp.com.np//cdn/clients/20819394_900410770125187_8227721605895993162_o.png" alt="Big Institute Damauli">
+                                            </a>
+                                        </div>
+                                      
+                                        <div class="client-block">
+                                            <a href="#" target="_blank" title="Namaste Pokhara Multisolution">
+                                                <img src="http://brp.com.np//cdn/clients/89357806_144143993735831_1780119517326737408_o.jpg" alt="Namaste Pokhara Multisolution">
+                                            </a>
+                                        </div>
+                                    
+                                </div>
+                                <!-- /List Of Clients -->
+                            </div>
+                        </div>
+                                        <!-- /Clients Block -->
+                </div>
+            </div>
+        </section>
+        <!-- About Me Subpage -->
+
+        <!-- Download Subpage -->
+                    <section id="download" class="sub-page">
+                <div class="sub-page-inner">
+                    <div class="section-title">
+                        <div class="main-title">
+                            <div class="title-main-page">
+                                <h4>Downloads</h4>
+                                <p>मैले धेरै जसो चाहिरहने Software !!! आश छ तपाईलाई पनि काम लाग्छ | - बिश्वोराज पौडेल</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="section-content">
+                      
+         <h4>Basic Useful Software [Download गर्न Click गर्नुहोस्]</h4>
+         <div class="list-group">
+            <a href="http://bit.ly/2MWto9X" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Google Input Tools Offline Version || Password: thulotechnology</a>
+            <a href="http://bit.ly/2Jy6jZ9" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Pinnacle Studio [Video Editing Software]</a>
+            <a href="http://bit.ly/34bZkNt" target = "_blank"  class="list-group-item list-group-item-action list-group-item-primary">Nepali Fonts Collection [All Nepali Fonts]</a>
+            <a href="http://bit.ly/2MZAdrE" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Driver Pack Solution [Download Any Driver]</a>
+            <a href="http://bit.ly/2q8rtWT" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Best Screen Recording Software</a>
+            <a href="http://bit.ly/31WQBNB" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Download Open Office [Free Word, Excel, Powerpoint]</a>
+            <a href="http://bit.ly/2Wp32R4" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Download Data Recovery Software [Recover 1GB For Free]</a>
+            <a href="https://bit.ly/2xsqm8h" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Download OBS Software [Open Broadcasting Software]</a>
+          </div>
+          <br>
+          <h4>Useful Online Tools</h4>
+          <div class="list-group">
+            <a href="http://bit.ly/2Jzchce" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Nepali to English Date Conveter</a>
+            <a href="http://bit.ly/34dENYQ" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Unicode to Preeti Converter</a>
+            <a href="http://bit.ly/31YAmjb" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">YouTube Video Downloader</a>
+            <a href="http://bit.ly/32TWsVg" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Watch Technical Videos</a>
+          </div>  
+          <br>
+          <h4>Adobe Software [Download गर्न Click गर्नुहोस्]</h4>
+          <div class="list-group">
+            <a href="https://adobe.ly/2r6P5fc" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe Photoshop 2019 CC</a>
+            <a href="https://adobe.ly/2QGSzzX" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe Premiere Pro 2019 CC</a>
+            <a href="https://adobe.ly/2r9gcGq" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe Reader</a>
+            <a href="https://adobe.ly/2Ouy4DF" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe After Effect 2019 CC</a>
+            <a href="https://adobe.ly/343PKwH" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe Indesign 2019 CC</a>
+            <a href="https://adobe.ly/37kpDDy" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Adobe Lightroom 2019 CC</a>
+          </div>  
+          <br>
+          <h4>Useful Android App</h4>
+          <div class="list-group">
+            <a href="http://bit.ly/2XvmCf6" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Hamro Patro</a>
+            <a href="http://bit.ly/2KE28f4" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Scan and Recharge App</a>
+            <a href="https://bit.ly/2QNVlCD" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Esewa</a>
+            <a href="https://bit.ly/33S9kwx" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">Corona Virus Tracking App</a>
+            <a href="https://bit.ly/3brcsC6" target = "_blank" class="list-group-item list-group-item-action list-group-item-primary">NEB Computer 12</a>
+          </div>  
+          <br>
+                    </div>
+                </div>
+            </section>
+        
+        <!-- End of Resume Subpage -->
+
+        <!-- Portfolio Subpage -->
+                    <section id="portfolio" class="sub-page">
+                <div class="sub-page-inner">
+                    <div class="section-title">
+                        <div class="main-title">
+                            <div class="title-main-page">
+                                <h4>Some Works</h4>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="section-content">
+                        <div class="filter-tabs">
+                            <button class="fil-cat" data-rel="all"><span>0</span> All</button>
+                             
+                                <button class="fil-cat" data-rel="pro_cat_2"><span>(4)</span> App Development</button>
+                             
+                                <button class="fil-cat" data-rel="pro_cat_3"><span>(2)</span> Software Development</button>
+                             
+                                <button class="fil-cat" data-rel="pro_cat_1"><span>(4)</span> Website Development</button>
+                                                    </div>
+
+                        <div class="portfolio-grid portfolio-trigger" id="portfolio-page">
+                            <div class="label-portfolio"><span class="rotated-sub">Project</span><span class="project-count">10</span></div>
+                            <div class="row">
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_1 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/tukes.JPG" class="img-responsive" alt="Tukee Arts Pvt.Ltd">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/10-tukee-arts-pvt-ltd">Tukee Arts Pvt.Ltd</a></h4>
+                                            <p class="meta">Website Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/10-tukee-arts-pvt-ltd"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/tukes.JPG" data-rel="lightcase:gal" title="Tukee Arts Pvt.Ltd"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_1 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/jotis1.JPG" class="img-responsive" alt="Jyoti Education Consultancy">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/9-jyoti-education-consultancy">Jyoti Education Consultancy</a></h4>
+                                            <p class="meta">Website Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/9-jyoti-education-consultancy"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/jotis1.JPG" data-rel="lightcase:gal" title="Jyoti Education Consultancy"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_1 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/0-02-03-3d06877c68dcfc388c4911db24583a5b71cfc99c672fc995caf4c0d58d6ed51b_e6757492.jpg" class="img-responsive" alt="Salute Gorkha Pvt.Ltd.">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/8-salute-gorkha-pvt-ltd">Salute Gorkha Pvt.Ltd.</a></h4>
+                                            <p class="meta">Website Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/8-salute-gorkha-pvt-ltd"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/0-02-03-3d06877c68dcfc388c4911db24583a5b71cfc99c672fc995caf4c0d58d6ed51b_e6757492.jpg" data-rel="lightcase:gal" title="Salute Gorkha Pvt.Ltd."><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_2 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/NEB_Computer_12_Bishworaj_Poudel.png" class="img-responsive" alt="NEB Computer 12 App">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/7-neb-computer-12-app">NEB Computer 12 App</a></h4>
+                                            <p class="meta">App Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/7-neb-computer-12-app"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/NEB_Computer_12_Bishworaj_Poudel.png" data-rel="lightcase:gal" title="NEB Computer 12 App"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_3 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/maxresdefault_(2).jpg" class="img-responsive" alt="Thulo Institute Management Software">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/6-thulo-institute-management-software">Thulo Institute Management Software</a></h4>
+                                            <p class="meta">Software Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/6-thulo-institute-management-software"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/maxresdefault_(2).jpg" data-rel="lightcase:gal" title="Thulo Institute Management Software"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_2 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/Free-Trial-1024x6761.png" class="img-responsive" alt="Thulo IMS App">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/5-thulo-ims-app">Thulo IMS App</a></h4>
+                                            <p class="meta">App Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/5-thulo-ims-app"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/Free-Trial-1024x6761.png" data-rel="lightcase:gal" title="Thulo IMS App"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_2 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/Ecommerse_App.JPG" class="img-responsive" alt="E commerce App">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/4-e-commerce-app">E commerce App</a></h4>
+                                            <p class="meta">App Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/4-e-commerce-app"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/Ecommerse_App.JPG" data-rel="lightcase:gal" title="E commerce App"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_2 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/79498679_444015009858689_8117464661609152512_o.jpg" class="img-responsive" alt="Agritech Nepal">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/3-agritech-nepal">Agritech Nepal</a></h4>
+                                            <p class="meta">App Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/3-agritech-nepal"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/79498679_444015009858689_8117464661609152512_o.jpg" data-rel="lightcase:gal" title="Agritech Nepal"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_1 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/Dayahang_Rai.JPG" class="img-responsive" alt="Dayahang Rai Official Website">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/2-dayahang-rai-official-website">Dayahang Rai Official Website</a></h4>
+                                            <p class="meta">Website Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/2-dayahang-rai-official-website"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/Dayahang_Rai.JPG" data-rel="lightcase:gal" title="Dayahang Rai Official Website"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_3 all">
+                                        <div class="portfolio-img">
+                                            <img src="http://brp.com.np//cdn/projects/80585405_461673658092824_7039228811463884800_o.jpg" class="img-responsive" alt="Income and Expenses Software">
+                                        </div>
+                                        <div class="portfolio-data">
+                                            <h4><a href="http://brp.com.np/project/1-income-and-expenses-software">Income and Expenses Software</a></h4>
+                                            <p class="meta">Software Development</p>
+                                            <div class="portfolio-attr"> 
+                                                <a href="http://brp.com.np/project/1-income-and-expenses-software"><i class="lnr lnr-link"></i></a> 
+                                                <a href="http://brp.com.np//cdn/projects/80585405_461673658092824_7039228811463884800_o.jpg" data-rel="lightcase:gal" title="Income and Expenses Software"><i class="lnr lnr-move"></i></a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+                <!-- /Portfolio Subpage -->
+
+        <!-- Blog Subpage -->
+                    <section id="blog" class="sub-page">
+                <div class="sub-page-inner">
+                    <div class="section-title">
+                        <div class="main-title">
+                            <div class="title-main-page">
+                                <h4>Blog</h4>
+                                <p>Bishworaj Poudel Blogs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="section-content">
+                        <div class="row blog-grid-flex">
+                                                        <div class="col-md-12 text-center">
+                                <a href="http://brp.com.np/blog" class="btn bt-submit">Browse all articles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+                <!-- /Blog Subpage -->
+
+        <!-- Contact Subpage -->
+        <section id="contact" class="sub-page">
+            <div class="sub-page-inner">
+                <div class="section-title">
+                    <div class="main-title">
+                        <div class="title-main-page">
+                            <h4>Contact</h4>
+                            <p>Need Some Help?</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Contact Form -->
+                                    <div class="row contact-form pb-30">
+                        <div class="col-sm-12 col-md-5 col-lg-5 left-background">
+                            <img src="http://brp.com.np//cdn/settings/bishworaj-poudel2.jpg" alt=""/>
+                        </div>
+                        <div class="col-sm-12 col-md-7 col-lg-7">
+                            <div class="form-contact-me">
+                                <div id="show_contact_msg" class="row">
+                                                                                                        </div>
+                                <form method="post" id="contact-form" action="http://brp.com.np/#contact">
+                                    <input name="name" type="text" placeholder="Name:" required autocomplete="off">
+                                    <input name="email" type="email" placeholder="Email:" required autocomplete="off">
+                                    <textarea name="message" placeholder="Message:" required rows="6"></textarea>
+                                    <div class="g-recaptcha" data-sitekey="6LcLEOYUAAAAADRnAYE3XDp75J68RE2PI4g36j9_"></div>
+                                    <input class="bt-submit" type="submit" value="Send Message">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                                <!-- /Contact Form -->
+
+                <!-- Contact Details -->
+                <div class="pt-50 pb-30">
+                    <div class="section-head">
+                        <h4>
+                            <span>Contact Information</span>
+                            Find me here                        </h4>
+                    </div>
+
+                    <!-- Contact Info -->
+                    <div class="sidebar-textbox row pb-50">
+                                                    <div class="contact-info d-flex col-md-4">
+                                <div class="w-25">
+                                    <div class="contact-icon">
+                                        <i class="fas fa-phone"></i>
+                                    </div>
+                                </div>
+                                <div class="contact-text w-75">
+                                    <h2>Phone</h2>
+                                                                            <p>+977 (98********)</p>
+                                                                    </div>
+                            </div>
+                        
+                                                    <div class="contact-info d-flex col-md-4">
+                                <div class="w-25">
+                                    <div class="contact-icon">
+                                        <i class="far fa-envelope-open"></i>
+                                    </div>
+                                </div>
+                                <div class="contact-text w-75">
+                                    <h2>Email</h2>
+                                                                            <p>bishworajpoudelofficial@gmail.com</p>
+                                                                    </div>
+                            </div>
+                        
+                                                    <div class="contact-info d-flex col-md-4">
+                                <div class="w-25">
+                                    <div class="contact-icon">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="contact-text w-75">
+                                    <h2>Address</h2>
+                                    <p> 
+                                                                                    Pokhara, Nepal<br>
+                                                                            </p>
+                                </div>
+                            </div>
+                                            </div>
+
+                    <!-- /Contact info -->
+                                        <!-- /Map Container -->  
+
+                    <!-- Social Media -->
+                    <div class="pt-50">
+                        <div class="social-media-block">
+                            <h4>Follow Bishworaj Poudel: </h4>
+                            <ul class="social-media-links">
+                                <li><a href="https://www.facebook.com/bishworajpoudelofficial/"><i class="fab fa-facebook-f"></i></a></li>                                                                <li><a href="https://www.linkedin.com/in/bishworajpoudelofficial/"><i class="fab fa-linkedin-in"></i></a></li>                                                                <li><a href="https://www.youtube.com/technologychannel"><i class="fab fa-youtube"></i></a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                        </div>
+                    </div>
+                    <!-- /Social Media -->
+                </div>
+                <!-- /Contact Details -->  
+            </div>
+        </section>
+        <!-- End Contact Subpage -->
+    </div>
+    <!-- /Page changer wrapper -->
+</div>
+<!-- /Main Content -->
+        </div>
+
+        <!--JS Files-->
+        <script src="http://brp.com.np/styles/site/default/assets/js/jquery.min.js"></script>
+        <script src="http://brp.com.np/styles/site/default/assets/js/bootstrap.min.js"></script>
+        <!--Owl Coursel-->
+        <script src="http://brp.com.np/styles/site/default/assets/js/owl.carousel.min.js"></script>
+        <!-- Typing Text -->
+        <script src="http://brp.com.np/styles/site/default/assets/js/typed.min.js"></script> 
+        <!--Images LightCase-->
+        <script src="http://brp.com.np/styles/site/default/assets/js/lightcase.min.js"></script>
+        <!-- Portfolio filter -->
+        <script src="http://brp.com.np/styles/site/default/assets/js/jquery.isotope.min.js"></script>
+        <!-- Wow Animation -->
+        <script src="http://brp.com.np/styles/site/default/assets/js/wow.min.js"></script>  
+        <!-- Map -->
+        <!-- Main Script -->
+                    <script src="http://brp.com.np/styles/site/default/assets/js/script.js"></script>
+        
+                <script>
+            if ($('#google-map').length > 0) {
+                //set your google maps parameters
+                var latitude = 28.2298558,
+                        longitude = 83.8865785,
+                        map_zoom = 14;
+
+                //google map custom marker icon 
+                var marker_url = 'http://brp.com.np/styles/site/default/assets/images/map-marker.png';
+
+                //we define here the style of the map
+                var style = [{"featureType": "landscape", "stylers": [{"saturation": -100}, {"lightness": 65}, {"visibility": "on"}]}, {"featureType": "poi", "stylers": [{"saturation": -100}, {"lightness": 51}, {"visibility": "simplified"}]}, {"featureType": "road.highway", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "road.arterial", "stylers": [{"saturation": -100}, {"lightness": 30}, {"visibility": "on"}]}, {"featureType": "road.local", "stylers": [{"saturation": -100}, {"lightness": 40}, {"visibility": "on"}]}, {"featureType": "transit", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "administrative.province", "stylers": [{"visibility": "off"}]}, {"featureType": "water", "elementType": "labels", "stylers": [{"visibility": "on"}, {"lightness": -25}, {"saturation": -100}]}, {"featureType": "water", "elementType": "geometry", "stylers": [{"hue": "#ffff00"}, {"lightness": -25}, {"saturation": -97}]}];
+
+                //set google map options
+                var map_options = {
+                    center: new google.maps.LatLng(latitude, longitude),
+                    zoom: map_zoom,
+                    panControl: true,
+                    zoomControl: true,
+                    mapTypeControl: true,
+                    streetViewControl: true,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+                    scrollwheel: false,
+                    styles: style,
+                }
+                //inizialize the map
+                var map = new google.maps.Map(document.getElementById('google-map'), map_options);
+                //add a custom marker to the map				
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(latitude, longitude),
+                    map: map,
+                    visible: true,
+                    icon: marker_url,
+                });
+            }
+                            (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-UA-162003716-1-1', 'auto');
+                ga('send', 'pageview');
+
+                   </script>
+    </body>
+</html>
